@@ -1,0 +1,21 @@
+PROJETO: Cafeteria Dev (C# Windows Forms)
+DISCIPLINA: C# Development
+PROFESSOR: Wellington Cidade Silva
+TURMA: 3ESPS
+
+TECH LEAD
+RM: 000000
+Nome: Nome do Tech Lead
+
+INTEGRANTES
+RM: 93752
+Nome: Joao Victor Alvarenga
+
+RM: 000000
+Nome: Nome do Integrante 3
+
+RM: 000000
+Nome: Nome do Integrante 4
+
+REPOSITORIO (publico)
+https://github.com/NOME-DA-ORGANIZACAO/Cafeteria
